@@ -24,7 +24,7 @@ concurrency:
 env:
   MODIO_API: https://g-2475.modapi.io/v1   # Deep Rock Galactic's own mod.io domain (api.mod.io is deprecated)
   MODIO_GAME_ID: "2475"
-  MODIO_MOD_ID: "TODO"                     # Smart Laser Pointer: the mod id from its mod.io page (Edit > the number in the URL)
+  MODIO_MOD_ID: "6554599"                  # Smart Laser Pointer: mod.io/g/drg/m/smart-laser-pointer
   TAG: ${{ github.event.release.tag_name || inputs.tag }}
 
 jobs:

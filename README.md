@@ -11,7 +11,7 @@ Rest the laser pointer on a creature, a mineral or a machine. A hexagon closes o
 about it comes out of the hexagon, each fact on its own line. It helps new players learn what things are and
 reminds veterans why they matter.
 
-![The scan coming out on a Frost Praetorian, a Yeast Cone, an Ebonut and a Glyphid Stalker](.github/images/scan.gif)
+![The scan coming out on a Glyphid Frost Praetorian, a Yeast Cone, an Ebonut and a Glyphid Stalker](.github/images/scan.gif)
 
 ## Features
 
