@@ -1,0 +1,14 @@
+id = "smart-laser-pointer"
+name = "Smart Laser Pointer"
+version = "0.1.0"
+author = "rodionmasalov"
+folder = "_SmartLaserPointer"
+prefix = "SLP_"
+pak = "smart-laser-pointer"
+asset_registry = false
+content_in_repo = true
+spec = "Tools/smart_laser_pointer_spec.py"
+spec_args = []
+keep = []
+markers = ["_SmartLaserPointer", "SLP_"]
+cvars = []

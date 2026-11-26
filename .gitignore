@@ -1,0 +1,11 @@
+# Built locally by drg (pak zips, logs)
+Release/
+Saved/
+Binaries/
+Intermediate/
+DerivedDataCache/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vs/
